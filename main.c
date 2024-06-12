@@ -5,7 +5,7 @@ int main()
 {
     printf("\t\tGym Application\n\n");
     fileRead();
-    while(choice != 8)
+    while(choice != 9)
     {
         printf("\n1.Product List\n2.Product Register\n3.Product Display\n4.Add Defect Product\n"
                "5.Product Update\n6.Update Product Avilabilty\n7.Product Delete\n"
